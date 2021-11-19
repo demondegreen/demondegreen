@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christian @demondegreen, grizzled cypherpunk and oldschool developer 🏴
+- 👋 Hi, I’m Christian de Mondegreen, grizzled cypherpunk and oldschool developer 🏴
 #
 - 🔮 At various times, I have been paid to write software in python, PERL, C, PHP, jscript, VB, and even COBOL.
 - 🗺️ I have experience wrangling requirements and managing projects for non-profit, gov, and PAC types.

@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Christian @demondegreen
-- 👀 I’m interested in Machine Learning | AI Generated Art | Music & DSP | Blockchain
-- 🌱 I’m currently learning Python (again, for the 5th time or so), C# for Unity, and Blender.
-- 💞️ I’m looking to collaborate on virtual experiences, games, financial projects
+- 👋 Hi, I’m Christian @demondegreen, grizzled cypherpunk and oldschool developer
+-
+- 🔮 At various times, I have been paid to write software in python, PERL, C, PHP, jscript, VB, and even COBOL.
+- 🗺️ I also have experience managing technical projects for medium and large non-profits and PACs.
+- 
+- 👀 I’m interested in BlockChain as VM | Smart Contracts | Decentralized EVERYTHING | Privacy and Autonomy | AI Generated Art
+- 🌱 I’m currently re-viewing Python from scratch for a #100DaysOfCode challenge
+
+- 💞️ I’m looking to collaborate on excellent projects that cultivate personal autonomy and protect liberty
 - 📫 How to reach me: Twitter: @de_mondegreen
 
 <!---

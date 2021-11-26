@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian de Mondegreen, grizzled cypherpunk and oldschool developer 🏴
 #
 - 🔮 At various times, I have been paid to write software in python, PERL, C, PHP, jscript, VB, and even COBOL.
-- 🗺️ I have experience wrangling requirements and managing projects for non-profit, gov, and PAC types.
+- 🗺️ I have experience wrangling requirements and managing projects for org, gov, and com clients.
 #
 - 👀 I’m interested in BlockChain as VM | Smart Contracts | Decentralized EVERYTHING | Privacy and Autonomy
 - 🌱 I’m currently re-viewing Python from scratch for a #100DaysOfCode challenge  
